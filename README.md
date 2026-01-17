@@ -1,3 +1,3 @@
 # LeetCode
-starting my journey with leetcode in c language 
+starting my journey with leetcode in c language <br>
 Author - Prathamesh Kulkarni
